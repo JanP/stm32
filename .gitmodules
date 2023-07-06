@@ -1,0 +1,4 @@
+[submodule "Dependencies/makefile_rules"]
+	path = Dependencies/makefile_rules
+	url = ssh://git@github.com/janp/makefile_rules
+	branch = master

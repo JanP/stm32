@@ -2,3 +2,7 @@
 	path = Dependencies/makefile_rules
 	url = ssh://git@github.com/janp/makefile_rules
 	branch = master
+[submodule "Dependencies/ARM-toolchains"]
+	path = Dependencies/ARM-toolchains
+	url = ssh://git@github.com/JanP/ARM-toolchains.git
+	branch = main

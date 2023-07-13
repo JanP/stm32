@@ -1,6 +1,6 @@
 APPS:=
 LIBS:=
-ARCHIVES:=stm32.a
+ARCHIVES:=test_template.a test_addr.a
 
 all: $(APPS) $(LIBS) $(ARCHIVES)
 
